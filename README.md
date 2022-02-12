@@ -1,2 +1,2 @@
-# go-gin-api-rest
+# api-go-gin
 Go Gin API Rest
