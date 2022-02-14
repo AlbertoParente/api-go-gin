@@ -9,9 +9,11 @@ func ShowAllStudents(c *gin.Context) {
 	})
 }
 
+/*
 func Greeting(c *gin.Context) {
 	name := c.Params.ByName("name")
 	c.JSON(200, gin.H{
 		"API:": "It's all OK " + name + "...?",
 	})
 }
+*/
